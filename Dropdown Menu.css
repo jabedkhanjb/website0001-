@@ -193,3 +193,52 @@ body{
     border: 50px;
     
 }
+.img img:hover{
+    cursor: pointer;
+    transform: rotate(360deg);
+    transition: 1s;
+}
+
+        
+/* Transform hover on social icon */
+
+.whatsapp:hover{
+    transform: rotate(360deg);
+    transition: .3s;
+}
+.instagram:hover{
+    transform: rotate(360deg);
+    transition: .3s;
+}
+.twitter:hover{
+    transform: rotate(360deg);
+    transition: .3s;
+}
+.linkedin:hover{
+    transform: rotate(360deg);
+    transition: .3s;
+}
+.soundcloud:hover{
+    transform: rotate(360deg);
+    transition: .3s;
+}
+.snapchat:hover{
+    transform: rotate(360deg);
+    transition: .3s;
+}
+.tiktok:hover{
+    transform: rotate(360deg);
+    transition: .3s;
+}
+.paypal:hover{
+    transform: rotate(360deg);
+    transition: .3s;
+}
+.github:hover{
+    transform: rotate(360deg);
+    transition: .3s;
+}
+.youtube:hover{
+    transform: rotate(360deg);
+    transition: .3s;
+}
